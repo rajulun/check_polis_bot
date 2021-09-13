@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 *.xlsx
 *.xls
-.gitignore
+config.py
